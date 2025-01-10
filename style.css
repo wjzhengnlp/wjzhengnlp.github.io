@@ -6,12 +6,12 @@ table#tlayout {
 }
 
 html {
-	background-color: white; /* #DCDCDC */
+	background-color: white;
 }
 
 body {
 	background: white;
-	font-family: Times, serif; /* Georgia, serif  Times, 'FZKT' */
+	font-family: Times, serif; 
 	text-align: left; /* for IE */
   	margin-top: 0px; 
   	margin-bottom: 0px;
@@ -383,11 +383,3 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
-
-
-@font-face
-{
-font-family: 'FZKT';
-src: url('FZKT.ttf');
-}
-
